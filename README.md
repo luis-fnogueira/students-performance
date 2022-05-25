@@ -11,3 +11,10 @@ What brings attention in this first glance is that we have only a zero grade in 
 This dataset has 1000 rows duly filled
 
 ![Captura de tela de 2022-05-24 21-42-01](https://user-images.githubusercontent.com/82065199/170154492-d30ffbf7-e729-48fb-bd8c-3cd2f60bc384.png)
+
+### Math scores
+
+![Captura de tela de 2022-05-24 21-43-48](https://user-images.githubusercontent.com/82065199/170154822-4e3f9802-74c4-46b5-bc74-f8b08cfc1d39.png) ![Captura de tela de 2022-05-24 21-43-37](https://user-images.githubusercontent.com/82065199/170154825-31199044-ee66-43d8-a6f3-cfc0f0717a5e.png)
+
+As seen earlier, math has the lowest grades compared to the other matters. Besides the low outliers, the distribution seems normal.
+
