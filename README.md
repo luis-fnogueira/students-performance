@@ -9,4 +9,5 @@ What brings attention in this first glance is that we have only a zero grade in 
 ![Captura de tela de 2022-05-23 22-04-47](https://user-images.githubusercontent.com/82065199/169928000-a6f86bdc-64d8-4d79-ae53-d53bc2f13dd5.png)
 
 This dataset has 1000 rows duly filled
+
 ![Captura de tela de 2022-05-24 21-42-01](https://user-images.githubusercontent.com/82065199/170154492-d30ffbf7-e729-48fb-bd8c-3cd2f60bc384.png)
