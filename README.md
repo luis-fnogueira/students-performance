@@ -18,3 +18,4 @@ This dataset has 1000 rows duly filled
 
 As seen earlier, math has the lowest grades compared to the other matters. Besides the low outliers, the distribution seems normal.
 
+![image](https://user-images.githubusercontent.com/82065199/171476555-ef81540e-f362-41c6-9678-719f171eb142.png)
