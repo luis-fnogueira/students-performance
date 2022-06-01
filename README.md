@@ -14,8 +14,9 @@ This dataset has 1000 rows duly filled
 
 ### Math scores
 
-![Captura de tela de 2022-05-24 21-43-48](https://user-images.githubusercontent.com/82065199/170154822-4e3f9802-74c4-46b5-bc74-f8b08cfc1d39.png) ![image](https://user-images.githubusercontent.com/82065199/171476555-ef81540e-f362-41c6-9678-719f171eb142.png)
+![image](https://user-images.githubusercontent.com/82065199/171476935-92b53150-f68c-4329-b20c-ccf8044eec8d.png) ![image](https://user-images.githubusercontent.com/82065199/171476555-ef81540e-f362-41c6-9678-719f171eb142.png)
 
 As seen earlier, math has the lowest grades compared to the other matters. Besides the low outliers, the distribution seems normal.
+
 
 
