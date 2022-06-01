@@ -26,7 +26,7 @@ Reading scores distribution also seems normal.
 
 ### Writing scores
 
-![image](https://user-images.githubusercontent.com/82065199/171477279-8056bf9c-38b0-470f-b652-6e31aa913663.png) ![image](https://user-images.githubusercontent.com/82065199/171477303-fdab0155-c38e-47ef-a747-e6505d03f640.png)
+![image](https://user-images.githubusercontent.com/82065199/171477303-fdab0155-c38e-47ef-a747-e6505d03f640.png) ![image](https://user-images.githubusercontent.com/82065199/171477279-8056bf9c-38b0-470f-b652-6e31aa913663.png) 
 
 And lastly the distribution of writing scores also seems normal. In a way, all scores are similar to each other.
 
