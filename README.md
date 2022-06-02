@@ -1,7 +1,14 @@
 # students-performance
 EDA with Kaggle's dataset about students performance.
 
-The main goal of this study is to understand how this dataset is distributed, see what is in it.
+The main goal of this study is to understand how this dataset is distributed, doing an descriptive analysis.
+
+### The dataset
+
+Here's how the dataset look like in a Pandas Dataframe:
+
+![Captura de tela de 2022-06-02 15-31-36](https://user-images.githubusercontent.com/82065199/171701568-0f6945cb-5b8c-4b7c-abe1-c6e371fe300a.png)
+
 
 First looking at the grades (which are the quantitative variables) one can see that the grades are relatively similar among them. There is no big difference when we look at the quartiles and medians.
 What brings attention in this first glance is that we have only a zero grade in math, it can be just an outlier, but it could be a point of attention. 
