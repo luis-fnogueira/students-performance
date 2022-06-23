@@ -26,15 +26,18 @@ This dataset has 1000 rows duly filled
 
 As seen earlier, math has the lowest grades compared to the other matters. Besides the low outliers, the distribution seems normal.
 
-### Reading scores 
+### Reading scores
 
-![image](https://user-images.githubusercontent.com/82065199/171477143-7943b8d7-474c-438d-ac9f-55061a4aa783.png) ![image](https://user-images.githubusercontent.com/82065199/171477167-07fe044e-24c4-4bc4-b8c2-b519c6bdc942.png)
+![BOX-READING](https://user-images.githubusercontent.com/82065199/175425530-e4429c12-b7f3-45a9-88f8-55f45a9ed652.png) ![hist-reading](https://user-images.githubusercontent.com/82065199/175425558-3c3de4bb-dda0-4f80-82c0-4da294f9232b.png)
+
 
 Reading scores distribution also seems normal.
 
 ### Writing scores
 
-![image](https://user-images.githubusercontent.com/82065199/171477303-fdab0155-c38e-47ef-a747-e6505d03f640.png) ![image](https://user-images.githubusercontent.com/82065199/171477279-8056bf9c-38b0-470f-b652-6e31aa913663.png) 
+
+![box-writing](https://user-images.githubusercontent.com/82065199/175425641-d9604de2-ffee-4401-a3d1-5248cfa0e032.png) ![hist-writing](https://user-images.githubusercontent.com/82065199/175425666-7fc8f86e-1635-46d6-a933-79ae02110912.png)
+
 
 And lastly the distribution of writing scores also seems normal. In a way, all scores are similar to each other.
 
@@ -46,7 +49,8 @@ Those three variables have a strong positive correlation, mainly writing and rea
 
 ### Proportion by sex
 
-![image](https://user-images.githubusercontent.com/82065199/171477845-bd075f57-3930-4ae2-9302-448bb9d882cd.png)
+![sex](https://user-images.githubusercontent.com/82065199/175425802-720df478-0fbf-44eb-85e8-84999aef60ac.png)
+
 
 In this dataset we have almost a division of 50/50 by sex. We have a little bit more men in the research.
 
@@ -64,9 +68,7 @@ The majority of students prefer the standart lunch.
 
 ### Race
 
-![Captura de tela de 2022-06-01 15-41-48](https://user-images.githubusercontent.com/82065199/171478799-9da4c824-26b9-44d2-8ae2-db2402cf90d4.png)
-
-![image](https://user-images.githubusercontent.com/82065199/171478824-4de6881f-81cf-411e-a7fb-e3b83eb22d2b.png)
+![race](https://user-images.githubusercontent.com/82065199/175425859-2f951330-e38f-42cf-bd92-e25b1acee667.png)
 
 Most students are of Race C and the less represented group is Race A
 
